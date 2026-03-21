@@ -1,0 +1,10 @@
+ipykernel
+ipywidgets
+
+pandas
+numpy
+matplotlib
+ydata-profiling
+setuptools<=75.2.0
+seaborn
+scikit-learn
