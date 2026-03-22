@@ -8,3 +8,6 @@ ydata-profiling
 setuptools<=75.2.0
 seaborn
 scikit-learn
+
+shap
+xgboost
